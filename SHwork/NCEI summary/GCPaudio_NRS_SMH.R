@@ -26,10 +26,10 @@ DC = Sys.Date()
 typ = "audio"
 gcpDir  = paste0( "gs://noaa-passive-bioacoustic/", tolower(projectN), "/audio" )
 #outputDir =  "C:\\Users//samara.haver//Documents//GitHub//GitHub//SoundscapeScenes//NCEI summary" #"F:\\ONMS//overview"   #UPDATE TO LOCAL COMPUTER -- GitRepo
-outputDir =  "~/GitHub/SoundscapeScenes_SHwork/NCEI summary"
+outputDir =  "~/GitHub/SoundscapeScenes/SHwork/NCEI summary"
 # Program - level METADATA ####
 #inFile = paste0(outputDir, "/ONMSSound_IndicatorCategories_2024-10-29.xlsx")
-inFile = "~/GitHub/SoundscapeScenes_SHwork/NCEI summary/ONMSSound_IndicatorCategories_2024-10-29.xlsx"
+inFile = "~/GitHub/SoundscapeScenes/SHwork/NCEI summary/ONMSSound_IndicatorCategories_2024-10-29.xlsx"
 lookup = as.data.frame ( read.xlsx(inFile) )
 colnames(lookup) = lookup[1, ]         # Set first row as column names
 lookup = as.data.frame( lookup[-1, ] ) # Remove the first row
