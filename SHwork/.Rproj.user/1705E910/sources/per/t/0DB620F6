@@ -1,0 +1,26 @@
+{
+    "id": "0DB620F6",
+    "path": "~/GitHub/SoundscapeScenes/NCEI summary/GCPaudio_NRS_SMH.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "113880947",
+    "contents": "",
+    "dirty": false,
+    "created": 1735248578009.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "253,0",
+        "scrollLine": "225"
+    },
+    "folds": "48|34|109|0|\n",
+    "lastKnownWriteTime": 1735261346,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1735261346830,
+    "read_only": false,
+    "read_only_alternatives": []
+}
