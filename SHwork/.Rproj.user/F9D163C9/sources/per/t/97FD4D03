@@ -1,6 +1,6 @@
 {
     "id": "97FD4D03",
-    "path": "~/GitHub/SoundscapeScenes_SHwork/GCPtoGantt_HMDfiles.R",
+    "path": "~/GitHub/SoundscapeScenes/SHwork/GCPtoGantt_HMDfiles.R",
     "project_path": "GCPtoGantt_HMDfiles.R",
     "type": "r_source",
     "hash": "2296440309",
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "19,14",
-        "scrollLine": "0"
+        "cursorPosition": "16,14",
+        "scrollLine": "40"
     },
     "folds": "",
     "lastKnownWriteTime": 1726784266,
